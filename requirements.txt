@@ -24,6 +24,3 @@ tqdm>=4.67.1
 
 # 其他
 pyyaml>=6.0.2
-warnings
-pathlib
-json
